@@ -10,3 +10,5 @@ def list_counter(list):
 	return dict
 
 print (list_counter(x))# python-2
+
+# I CHANGED THIS SHIT YO
